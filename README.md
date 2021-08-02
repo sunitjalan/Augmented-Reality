@@ -1,1 +1,1 @@
-VisionAR TaskPhase Assigment Submission.
+VisionAR TaskPhase Assignment Submission.
