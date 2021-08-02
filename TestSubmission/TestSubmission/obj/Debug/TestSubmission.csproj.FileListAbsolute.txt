@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Desktop\VisionAR\TestSubmission\TestSubmission\bin\Debug\TestSubmission.exe.config
+C:\Users\LENOVO\OneDrive\Desktop\VisionAR\TestSubmission\TestSubmission\bin\Debug\TestSubmission.exe
+C:\Users\LENOVO\OneDrive\Desktop\VisionAR\TestSubmission\TestSubmission\bin\Debug\TestSubmission.pdb
+C:\Users\LENOVO\OneDrive\Desktop\VisionAR\TestSubmission\TestSubmission\obj\Debug\TestSubmission.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Desktop\VisionAR\TestSubmission\TestSubmission\obj\Debug\TestSubmission.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Desktop\VisionAR\TestSubmission\TestSubmission\obj\Debug\TestSubmission.exe
+C:\Users\LENOVO\OneDrive\Desktop\VisionAR\TestSubmission\TestSubmission\obj\Debug\TestSubmission.pdb
