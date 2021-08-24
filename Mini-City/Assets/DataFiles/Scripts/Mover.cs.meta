@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5390868056b6520469f6c8377d6d39de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Car1Prefab: {fileID: 1759224658929766969, guid: 77e623cb72e6d084d9b4a250a94d3b29,
+      type: 3}
+  - Car2Prefab: {fileID: 5847941708831885263, guid: 4f3bf516cd9953547a6aef9a466a5b98,
+      type: 3}
+  - l1: {fileID: 3916780392279243434, guid: 530a709ffa7349c43bdf97f9a18c4a21, type: 3}
+  - l2: {fileID: 3264764309616795864, guid: 967efd3cad850e6419f55c719fd21dc1, type: 3}
+  - l3: {fileID: 4880651284229408030, guid: f7642df3a32cf68418eb6ace4eb40466, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
